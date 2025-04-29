@@ -18,7 +18,7 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=<your-clerk-publishable-key>
 CLERK_SECRET_KEY=<your-clerk-api-key>
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-DATABASE_URL=<your-neon-database-url>
+NEXT_PUBLIC_DATABASE_URL=<your-neon-database-url>
 ```
 
 ## Getting Started
@@ -64,12 +64,3 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-## Contact
-
-Alan Saji- [rockstaralansaji@gmail.com](mailto:your-email@example.com)
-
-
-check out live site at https://expense-tracker-alan-saji.vercel.app/
